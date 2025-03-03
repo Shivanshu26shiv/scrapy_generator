@@ -16,6 +16,8 @@ My extension was simple:
 - Go to Scrapy Generator tab
 - It formatted them **exactly** like a Scrapy spider.
 
+![Scrapy chrome extension](https://github.com/Shivanshu26shiv/scrapy_generator/blob/main/scrapy%20gen.png?raw=true)
+
 No more manual conversions. No more bouncing between tabs. Just one click, and I had everything in Scrapy's `Request()` format.
 
 ## **And Then... Chrome Decided to "Help"**
@@ -23,6 +25,8 @@ No more manual conversions. No more bouncing between tabs. Just one click, and I
 Just when I was about to put my extension on the Web Store, Chrome rolled out a little feature called **"Ask AI."**
 
 Yeah. That **Ask AI**.
+
+![Ask AI](https://github.com/Shivanshu26shiv/scrapy_generator/blob/main/ask%20ai.png?raw=true)
 
 Turns out, Chrome's AI can do exactly what my extension did—_but better_.
 
